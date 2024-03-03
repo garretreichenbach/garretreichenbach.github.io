@@ -48,9 +48,22 @@
 	align-self: center;
 	text-align: center;
 }
+.project-background {
+	margin-top: 20px;
+	background-color: #3b757b;
+}
 .project-carousel-item {
 	border-radius: 8px;
 	border: none;
 	scale: 80%;
 	margin: -50px;
+	height: 500px;
+}
+.project-link-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-self: center;
+	text-align: center;
+	width: 200px;
 }
